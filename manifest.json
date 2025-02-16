@@ -1,0 +1,16 @@
+{
+    "name": "NL AI Query Bot",
+    "short_name": "NL AI Query Bot",
+    "description": "A rule-based AI chatbot that answers queries about AI.",
+    "start_url": "https://Nicholas1023.github.io/nl-ai-query-bot/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#f4f7fa",
+    "icons": [       
+        {
+            "src": "https://Nicholas1023.github.io/nl-ai-query-bot/logo.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ]
+}
