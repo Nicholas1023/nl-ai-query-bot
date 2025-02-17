@@ -1,6 +1,8 @@
 **NL AI Query Bot Ver 1.0** 🚀
 ==============================
-**Release Date:** 16 Feb 2025 
+**Release Date:** 16 Feb 2025
+
+![License](https://img.shields.io/badge/license-MIT-green)
  
 **NL AI Query Bot** is a Progressive Web App (PWA) that provides AI-related answers using a rule-based approach. It is a fully static application with no backend required.
 
